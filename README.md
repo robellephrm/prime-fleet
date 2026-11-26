@@ -1,6 +1,6 @@
 # prime-fleet
 
-**Model-agnostic, goal-driven, cross-verified AI agent fleet.**
+**Model-agnostic, goal-driven, cross-verified AI agent harness.**
 
 Eight agents, any models you want. Give the lead one a goal and it keeps working until a model from another company checks the work and agrees.
 
